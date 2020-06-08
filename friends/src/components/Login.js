@@ -19,7 +19,7 @@ class Login extends Component {
                ...this.state.credentials,
             [e.target.name]: e.target.value   
            }
-       })
+       }) 
     }
 
     login = e => {

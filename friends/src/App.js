@@ -5,7 +5,7 @@ import Login from './components/Login'
 import FriendsList from './components/FriendsList'
 
 function App() {
-  return (
+  return ( 
     <div>
       <ul>
         <li>
