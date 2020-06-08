@@ -66,4 +66,4 @@ class AddFriendForm extends React.Component {
 }
 
 
-export default AddFriendForm;
+export default AddFriendForm; 

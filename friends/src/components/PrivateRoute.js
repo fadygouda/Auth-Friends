@@ -8,7 +8,7 @@ export const PrivateRoute = ({ component: Component, ...routeProps}) => {
                 return <Component {...props} />
             } else {
                 return <Redirect to='/login' />
-            }
+            } 
 
         }} />
     )

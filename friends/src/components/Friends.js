@@ -11,4 +11,4 @@ const Friend = (props) => {
     );
 };
 
-export default Friend; 
+export default Friend;  

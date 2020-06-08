@@ -5,7 +5,7 @@ import AddFriendForm from '../components/AddFriendForm'
 
 class Friends extends Component {
     state = {
-        friends: []
+        friends: [] 
     };
 
     componentDidMount() {
